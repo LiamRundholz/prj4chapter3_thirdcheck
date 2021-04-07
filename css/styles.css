@@ -12,22 +12,54 @@ h1 {
 
 a {color: rgb(235, 184, 16);}
 
-#my-id {color:rgb(235, 184, 16);}
+#my-id {color:rgb(235, 184, 16); 
+    }
 
 .my-class {font-family: 'Oi', cursive;
     font-size: 4.5em;
     text-align: center;
     letter-spacing: -1px;
-    background-color: black;
     color: white;}
+
+.moreheadspace {
+    padding-top: 35px;
+    padding-bottom: 30px;
+}
+
+.headerfont {font-family: 'Oi', cursive;
+        font-size: 2.5em;
+        text-align: center;
+        letter-spacing: 1px;
+        color: white;}
+
+
+.gofont {font-family: 'Oi', cursive;
+            font-size: 1.5em;
+            text-align: center;
+            letter-spacing: 1px;
+            color: white;
+            padding-top: 10px;
+            padding-bottom: 10px ;
+        }
+
+.gofonti {font-family: 'Oi', cursive;
+            font-size: 1.5em;
+            text-align: center;
+            letter-spacing: 1px;
+            color: white;
+            padding-top: 20px;
+            padding-bottom: 20px ;
+        }
+
 
 .my-container {border: 3px solid rgb(28, 230, 230);
                background-color:rgb(127, 236, 255);
                margin: 0 80px 0 80px;
 }
 
-.footer {background-color:rgb(67, 176, 226);
-         margin: 0px 0px 0px 0px;
+.footer {background-color:#27eac9;
+         padding-top: 40px;
+         padding-bottom: 40px;
 } 
 
 .card {
@@ -40,6 +72,8 @@ a {color: rgb(235, 184, 16);}
 
 .whatisamüppi {
     background-color: #27eac9;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .toppadding {
@@ -75,8 +109,11 @@ h2 {
 .btnstyle {
     background-color:#67c5ff ;
     color: #ff9851;
+
 }
 
 .centi {
     text-align: center;
+    margin-top: 15px;
+    margin-bottom: 45px;
 }
