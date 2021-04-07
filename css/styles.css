@@ -45,3 +45,23 @@ a {color: rgb(235, 184, 16);}
 .toppadding {
     padding-top: 20px;
 }
+
+h3 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.müppiloves {
+    background-color: #c20e09;
+    color:#3f7953; 
+}
+
+.müppiworks {
+    background-color: #ff9851;
+    color: #67c5ff;
+}
+
+.müppitalks {
+    background-color:#31faa9 ;
+    color: #f3598a;
+}
