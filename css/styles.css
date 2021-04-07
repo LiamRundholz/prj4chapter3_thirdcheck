@@ -46,7 +46,7 @@ a {color: rgb(235, 184, 16);}
     padding-top: 20px;
 }
 
-h3 {
+h4 {
     text-align: center;
     margin-top: 10px;
 }
@@ -64,4 +64,10 @@ h3 {
 .müppitalks {
     background-color:#31faa9 ;
     color: #f3598a;
+}
+
+h2 {
+    text-align: center;
+    color: #c20e09;
+    margin-top: 15px;
 }
