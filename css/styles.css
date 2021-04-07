@@ -74,6 +74,9 @@ h2 {
 
 .btnstyle {
     background-color:#67c5ff ;
-    text-align: center;
+    color: #ff9851;
 }
 
+.centi {
+    text-align: center;
+}
