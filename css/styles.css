@@ -1,0 +1,36 @@
+
+* { margin: 0; padding: 0; border: 0; font-size: 100%; } 
+
+h1 {text-decoration: underline;}
+
+#backgroundphoto-id {
+    background-image: url(../images/Frame-Teletubbies_3147217c.jpg);
+}
+
+a {color: rgb(235, 184, 16);}
+
+#my-id {color:rgb(235, 184, 16);}
+
+.my-class {font-family: 'Oi', cursive;
+    font-size: 4.5em;
+    text-align: center;
+    letter-spacing: -1px;
+    background-color: black;
+    color: white;}
+
+.my-container {border: 3px solid rgb(28, 230, 230);
+               background-color:rgb(127, 236, 255);
+               margin: 0 80px 0 80px;
+}
+
+.footer {background-color:rgb(67, 176, 226);
+         margin: 0px 0px 0px 0px;
+} 
+
+.card {
+    margin: 10px 80px 10px 80px;
+}
+
+.form-group {
+    margin: 10px 80px 10px 80px;
+}
