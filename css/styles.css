@@ -1,7 +1,10 @@
 
 * { margin: 0; padding: 0; border: 0; font-size: 100%; } 
 
-h1 {text-decoration: underline;}
+h1 {
+    color:#ffb6ce;
+    text-align: center;
+}
 
 #backgroundphoto-id {
     background-image: url(../images/goodmorning.jpg);
@@ -32,5 +35,13 @@ a {color: rgb(235, 184, 16);}
 }
 
 .form-group {
-    margin: 10px 80px 10px 80px;
+    margin: 10px 80px 10px 80px; 
+}
+
+.whatisamüppi {
+    background-color: #27eac9;
+}
+
+.toppadding {
+    padding-top: 20px;
 }
