@@ -80,6 +80,18 @@ a {color: rgb(235, 184, 16);}
     padding-bottom: 10px;
 }
 
+.kombuheading {
+    background-color: #ffe25f;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.snakepower {
+    background-color: #acecaf;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 .toppadding {
     padding-top: 20px;
 }
